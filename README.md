@@ -19,7 +19,11 @@ Install my-project with npm
 this project has been made for just training for J.S
 ```
 
+## Describtion
 
+```bresh
+This Project is a weather app with node JS and API
+```
 ## License
 
 Udacity-Licence
